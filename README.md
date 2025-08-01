@@ -30,6 +30,8 @@ We will open the PgAdmin4, connect the server by putting password, after that da
 PostgreSQL connection (update if needed) ---
 db_url = "postgresql+psycopg2://postgres:12345@localhost:5432/feedback_db"
 engine = create_engine(db_url)
+<img width="1920" height="917" alt="image" src="https://github.com/user-attachments/assets/b87222cb-2c32-424e-a5be-dcaf7abad335" />
+
 ### 🔸 Database Name: `feedback_db`  
 ### 🔸 Table Name: `inventory`
 
@@ -44,4 +46,4 @@ CREATE TABLE inventory (
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
-img width="1920" height="917" alt="image" src="https://github.com/user-attachments/assets/3b11f020-1054-4b18-aa6c-7b274ca3f829"
+<img width="1920" height="917" alt="image" src="https://github.com/user-attachments/assets/3b11f020-1054-4b18-aa6c-7b274ca3f829"/>
