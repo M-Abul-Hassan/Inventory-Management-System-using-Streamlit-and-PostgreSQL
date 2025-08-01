@@ -26,7 +26,10 @@ This is a simple and interactive Inventory Management System built using **Strea
 ---
 
 ## 💾 Database Configuration
-We will open the PgAdmin4, connect the server by putting password, after that database dashboard will be shown, we will create the database and its table by using SQL-Query.
+We will open the PgAdmin4, connect the server by putting password, after that database dashboard will be shown, we will create the database and its table by using SQL-Query. Now database is ready to connect with the frontend, now we will connect it by using the url in our python code: 
+PostgreSQL connection (update if needed) ---
+db_url = "postgresql+psycopg2://postgres:12345@localhost:5432/feedback_db"
+engine = create_engine(db_url)
 ### 🔸 Database Name: `feedback_db`  
 ### 🔸 Table Name: `inventory`
 
