@@ -44,3 +44,4 @@ CREATE TABLE inventory (
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
+<img width="1920" height="917" alt="image" src="https://github.com/user-attachments/assets/3b11f020-1054-4b18-aa6c-7b274ca3f829" />
