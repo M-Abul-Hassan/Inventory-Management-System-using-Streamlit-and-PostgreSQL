@@ -26,7 +26,7 @@ This is a simple and interactive Inventory Management System built using **Strea
 ---
 
 ## 💾 Database Configuration
-We will open the PgAdmin4, connect the server by putting password, after that database will be shown, we will create the database and its table by using SQL-Query.
+We will open the PgAdmin4, connect the server by putting password, after that database dashboard will be shown, we will create the database and its table by using SQL-Query.
 ### 🔸 Database Name: `feedback_db`  
 ### 🔸 Table Name: `inventory`
 
